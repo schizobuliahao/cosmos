@@ -1,6 +1,15 @@
 
 # Wasm Zone
 
+https://docs.cosmwasm.com/docs/getting-started/intro
+根据官网的介绍跑了一边coswasm合约
+配置：阿里云ecs，已配置好go和rust
+主要过程是安装和配置wasmd
+下载已经存在的合约编译和测试
+
+
+
+
 [![CircleCI](https://circleci.com/gh/CosmWasm/wasmd/tree/main.svg?style=shield)](https://circleci.com/gh/CosmWasm/wasmd/tree/main)
 [![codecov](https://codecov.io/gh/cosmwasm/wasmd/branch/main/graph/badge.svg)](https://codecov.io/gh/cosmwasm/wasmd)
 [![Go Report Card](https://goreportcard.com/badge/github.com/CosmWasm/wasmd)](https://goreportcard.com/report/github.com/CosmWasm/wasmd)
